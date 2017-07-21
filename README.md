@@ -1,0 +1,2 @@
+# Checkers
+GUI checkers game
